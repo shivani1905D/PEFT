@@ -1,0 +1,11 @@
+transformers
+accelerate
+peft
+bitsandbytes
+torchao
+datasets
+evaluate
+scikit-learn
+pandas
+numpy
+requests

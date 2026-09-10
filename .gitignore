@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+data/
+runs/
+*.zip
+.ipynb_checkpoints/
+
+# Keep the results CSVs though — they're small and are the actual output we care about
+!results/*.csv
